@@ -303,6 +303,7 @@ URL에서 차이가 있음
 ## legend 태그와 fieldset 태그
 + 입력 양식을 그룹으로 묶고 이름을 지정할 수 있음
 + legend 태그는 fieldset 태그 내부에 사용
++ 다른 곳에서 사용 가능하지만 효과가 없음
 
 <br><br>
 
@@ -326,3 +327,5 @@ URL에서 차이가 있음
   section|문서의 장이나 절에 해당하는 내용
   article|본문과 독립적인 콘텐츠 영역
   footer|꼬리말 (저자나 저작권 정보)
+[시맨틱 웹 참고](https://velog.io/@kimu2370/%EC%8B%9C%EB%A7%A8%ED%8B%B1-%EB%A7%88%ED%81%AC%EC%97%85)
+
